@@ -134,7 +134,8 @@ main {
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
-    margin-left: 10px
+    margin-left: 10px;
+    margin-top: 50px;
 }
 
 .ability section:first-child div {
